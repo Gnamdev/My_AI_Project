@@ -1,4 +1,4 @@
-# Stock Photo Generator
+# AI BOT Generator
 
 ## Table of Contents
 - [Overview](#overview)
